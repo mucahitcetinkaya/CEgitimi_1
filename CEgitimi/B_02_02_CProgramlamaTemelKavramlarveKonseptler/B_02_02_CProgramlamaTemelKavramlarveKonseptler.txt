@@ -1,0 +1,42 @@
+2. Build nedir? Build ve Run arasındaki farklar neler? C Kodları Build ve Run Etme
+
+yeni proje acmayı gecen ders gösterdik şimdi de var olan projeyi acmayı bakalım
+istersen olusturdugun yerde .c dosyasını ac 
+istersen olusturdugun yerde .cbp dosyasını ac 
+farkları birisi workspace ile acılır digeri sadece main.c dosyasını acıyor
+
+bir diger secenekte codeblocks acıp open an existing project ile 
+acmak istedigin dosyayı secmek cpb olan uzantılı dosyayı acman lazım
+
+içinde hello world yazıyor build and run ile calıstırdık yazdı sorun yok
+degistirdik baska bişey yazdık kayıt etmeden calıstırdık yine hello world yazdı
+kayıt edip run ile calıstırdık yine hello world yazdı
+kayıt edip build and run ile calıstırdık bu sefer düzgün calıstı
+
+kayıt etmeden build and run ile calıstırınca kendi otomatik kayıt ediyor düzgün calıstı
+
+kayıt etmeden veya build etmeden neden calısmıyor
+
+burda bir source file var main.c
+degisiklik oldugunda bunu bildirmen gerekiyor build et tekrar oku manasında
+
+build edinde bir exe dosyası olusuyor run işlemi bundan sonra calısıyor
+
+main dosyası var run diyince direk burda kayıtlı olan exe calısıyor
+main dosyasını buil edince yeni bir exe yapıyor tekrar okuyor son hali ile calıstırıyor
+
+actıgın klasörde bin debug altında exe dosyası var klasöre gidip cmd yi acarsan 
+orda exe dosyasını calıstırırsan cmd de de görebilirsin
+bunu yazmamın sebebi direk dosya olusturuyosun alt yapı için söylüyorum
+
+
+
+
+
+
+
+
+
+
+
+
