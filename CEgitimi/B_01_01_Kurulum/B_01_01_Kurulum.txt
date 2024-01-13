@@ -1,0 +1,54 @@
+öncelikle IDE indirmemiz lazım 
+
+indireceğimiz IDE codeblocks
+
+https://www.codeblocks.org/downloads/
+
+Download the binary release
+
+e gir işletim sistemine göre indir programı
+
+codeblocks-20.03mingw-setup.exe	i indir
+
+herhangi bir ozelleştirme yapmana gerek yok direk kendi ayarlarıyla kurulum yapabilirsin
+
+vscode veya baska bir uygulamada da c calısabiliriz codeblocks indirmemizin sebebi bütün
+
+işletim sistemlerinde calısıyor olması 
+
+yuklendi acıldı calısıyor mu bakalım
+
+create a new project diyip console application a gelelim
+
+projenin olusacagı klasör vs seciliyor go diyince acılıyor 
+
+main.c var oraya gel ilk proje acılmıs oldu .c yazması c dosyası oldugu anlamına geliyor
+
+bütün programların girişi main metodu dur 
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    printf("Hello world!\n");
+    return 0;
+}
+
+calıstırmak için build and run var yukarıda yeşil ok sarı cark ona bas build etmen gerekiyor
+
+programı build edip bunu makine diline cevirmemiz gerek
+
+makine dilinde olusan kodları da cpu da calıstırması gerekiyor
+
+diger dillerde farklı olarak c# veya java da sadece run tusu vardır
+
+burda build and run tusu var farklılıgı burdan geliyor
+
+tusa basınca cmd acılıyor hello world yazıyor ilk c programımızı yazmayı basardık 
+
+
+
+
+
+
